@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-My name is Sohel and I am learning to become a Data Analyst.
+My name is Sohel and I'm learning to become a Data Analyst. I'am trying to improve my Data Analysis skills by learning SQL, Python, R, Tableau and Power BI.
 
+#### My Projects
 
+Click [Here](https://github.com/sahmed008/Covid-Data-Analysis) for my projects.
 
 <!--
 **sahmed008/sahmed008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
