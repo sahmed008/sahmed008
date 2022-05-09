@@ -4,7 +4,7 @@ My name is Sohel and I'm learning to become a Data Analyst. I'am trying to impro
 
 #### My Projects
 
-Click [Here](https://github.com/sahmed008/Covid-Data-Analysis) for my projects.
+Click [Here](https://github.com/sahmed008/Portfolio-Projects) for my projects.
 
 <!--
 **sahmed008/sahmed008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
