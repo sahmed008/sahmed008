@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Sohel and I'm learning to become a Data Analyst. I'am trying to improve my Data Analysis skills by learning SQL, Python, R, Tableau and Power BI.
+My name is Sohel and I'm learning to become a Data Analyst. I'am trying to improve my Data Analysis skills by learning SQL, Python, Tableau and Power BI.
 
 #### My Projects
 
